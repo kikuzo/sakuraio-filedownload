@@ -1,0 +1,2 @@
+# sakuraio-filedownload
+sakura.ioを利用してRaspberry PI3のWiFiを自動設定するスクリプト
